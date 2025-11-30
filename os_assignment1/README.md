@@ -16,5 +16,5 @@ python3 task4.py
 python3 task5.py
 
 ##info
-Name: himanshi sharma
-roll no: 2301010428
+Name: srijan kumar
+roll no: 2301010396

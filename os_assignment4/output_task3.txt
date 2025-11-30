@@ -1,16 +1,16 @@
 total 64
--rw-rw-r-- 1 himanshi himanshi   429 Nov 23 01:11 batch_processing_log.txt
--rw-rw-r-- 1 himanshi himanshi  2733 Nov 23 01:11 output_task1.txt
--rw-rw-r-- 1 himanshi himanshi  3025 Nov 23 01:14 output_task2.txt
--rw-rw-r-- 1 himanshi himanshi     0 Nov 23 01:22 output_task3.txt
--rwxr-xr-x 1 himanshi himanshi   330 Nov 23 01:11 program1.py
--rwxr-xr-x 1 himanshi himanshi   359 Nov 23 01:11 program2.py
--rwxr-xr-x 1 himanshi himanshi   306 Nov 23 01:11 program3.py
--rwxr-xr-x 1 himanshi himanshi   309 Nov 23 01:11 program4.py
--rw-rw-r-- 1 himanshi himanshi  3633 Nov 23 01:14 system_startup_log.txt
--rwxrwxr-x 1 himanshi himanshi  6439 Nov 23 01:11 task1.py
--rwxrwxr-x 1 himanshi himanshi  8402 Nov 23 01:13 task2.py
--rwxrwxr-x 1 himanshi himanshi 10333 Nov 23 01:21 task3.py
+-rw-rw-r-- 1 srijan srijan   429 Nov 23 01:11 batch_processing_log.txt
+-rw-rw-r-- 1 srijan srijan  2733 Nov 23 01:11 output_task1.txt
+-rw-rw-r-- 1 srijan srijan  3025 Nov 23 01:14 output_task2.txt
+-rw-rw-r-- 1 srijan srijan     0 Nov 23 01:22 output_task3.txt
+-rwxr-xr-x 1 srijan srijan   330 Nov 23 01:11 program1.py
+-rwxr-xr-x 1 srijan srijan   359 Nov 23 01:11 program2.py
+-rwxr-xr-x 1 srijan srijan   306 Nov 23 01:11 program3.py
+-rwxr-xr-x 1 srijan srijan   309 Nov 23 01:11 program4.py
+-rw-rw-r-- 1 srijan srijan  3633 Nov 23 01:14 system_startup_log.txt
+-rwxrwxr-x 1 srijan srijan  6439 Nov 23 01:11 task1.py
+-rwxrwxr-x 1 srijan srijan  8402 Nov 23 01:13 task2.py
+-rwxrwxr-x 1 srijan srijan 10333 Nov 23 01:21 task3.py
 SYSTEM CALLS AND INTER-PROCESS COMMUNICATION
 Running all demonstrations sequentially...
 ==================================================
@@ -218,18 +218,18 @@ Root Process: All children and grandchildren completed
 ==================================================
 ALL DEMONSTRATIONS COMPLETED SUCCESSFULLY
 total 72
--rw-rw-r-- 1 himanshi himanshi   429 Nov 23 01:11 batch_processing_log.txt
--rw-rw-r-- 1 himanshi himanshi  2733 Nov 23 01:11 output_task1.txt
--rw-rw-r-- 1 himanshi himanshi  3025 Nov 23 01:14 output_task2.txt
--rw-rw-r-- 1 himanshi himanshi  7743 Nov 23 01:23 output_task3.txt
--rwxr-xr-x 1 himanshi himanshi   330 Nov 23 01:11 program1.py
--rwxr-xr-x 1 himanshi himanshi   359 Nov 23 01:11 program2.py
--rwxr-xr-x 1 himanshi himanshi   306 Nov 23 01:11 program3.py
--rwxr-xr-x 1 himanshi himanshi   309 Nov 23 01:11 program4.py
--rw-rw-r-- 1 himanshi himanshi  3633 Nov 23 01:14 system_startup_log.txt
--rwxrwxr-x 1 himanshi himanshi  6439 Nov 23 01:11 task1.py
--rwxrwxr-x 1 himanshi himanshi  8402 Nov 23 01:13 task2.py
--rwxrwxr-x 1 himanshi himanshi 10333 Nov 23 01:21 task3.py
+-rw-rw-r-- 1 srijan srijan   429 Nov 23 01:11 batch_processing_log.txt
+-rw-rw-r-- 1 srijan srijan  2733 Nov 23 01:11 output_task1.txt
+-rw-rw-r-- 1 srijan srijan  3025 Nov 23 01:14 output_task2.txt
+-rw-rw-r-- 1 srijan srijan  7743 Nov 23 01:23 output_task3.txt
+-rwxr-xr-x 1 srijan srijan   330 Nov 23 01:11 program1.py
+-rwxr-xr-x 1 srijan srijan   359 Nov 23 01:11 program2.py
+-rwxr-xr-x 1 srijan srijan   306 Nov 23 01:11 program3.py
+-rwxr-xr-x 1 srijan srijan   309 Nov 23 01:11 program4.py
+-rw-rw-r-- 1 srijan srijan  3633 Nov 23 01:14 system_startup_log.txt
+-rwxrwxr-x 1 srijan srijan  6439 Nov 23 01:11 task1.py
+-rwxrwxr-x 1 srijan srijan  8402 Nov 23 01:13 task2.py
+-rwxrwxr-x 1 srijan srijan 10333 Nov 23 01:21 task3.py
 SYSTEM CALLS AND INTER-PROCESS COMMUNICATION
 Running all demonstrations sequentially...
 ==================================================

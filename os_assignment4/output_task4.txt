@@ -11,7 +11,7 @@ Kernel Name: Linux
 
 2. USER INFORMATION:
 -------------------------
-Current User: himanshi
+Current User: srijan
 
 3. HARDWARE INFORMATION:
 -------------------------

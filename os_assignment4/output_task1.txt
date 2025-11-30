@@ -5,7 +5,7 @@ Setting up batch processing environment...
 BATCH CONFIGURATION:
 Total programs in batch: 4
 Execution mode: Sequential
-Working directory: /home/himanshi/os_assignment4
+Working directory: /home/srijan/os_assignment4
 
 STARTING SEQUENTIAL BATCH EXECUTION
 

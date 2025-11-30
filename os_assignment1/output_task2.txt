@@ -1,16 +1,16 @@
 total 40
--rw-rw-r-- 1 himanshi himanshi  83 Sep 20 20:54 output_task1.txt
--rw-rw-r-- 1 himanshi himanshi   0 Sep 20 20:55 output_task2.txt
--rw-rw-r-- 1 himanshi himanshi 147 Sep 20 20:52 output_task3.txt
--rw-rw-r-- 1 himanshi himanshi 199 Sep 20 20:54 output_task4.txt
--rw-rw-r-- 1 himanshi himanshi  48 Sep 20 20:54 output_task5.txt
--rw-rw-r-- 1 himanshi himanshi 402 Sep 20 20:47 README.md
--rw-rw-r-- 1 himanshi himanshi 488 Sep 20 20:42 task1.py
--rw-rw-r-- 1 himanshi himanshi 422 Sep 20 20:43 task2.py
--rw-rw-r-- 1 himanshi himanshi 676 Sep 20 20:43 task3.py
--rw-rw-r-- 1 himanshi himanshi 724 Sep 20 20:44 task4.py
--rw-rw-r-- 1 himanshi himanshi 556 Sep 20 20:44 task5.py
+-rw-rw-r-- 1 srijan srijan  83 Sep 20 20:54 output_task1.txt
+-rw-rw-r-- 1 srijan srijan   0 Sep 20 20:55 output_task2.txt
+-rw-rw-r-- 1 srijan srijan 147 Sep 20 20:52 output_task3.txt
+-rw-rw-r-- 1 srijan srijan 199 Sep 20 20:54 output_task4.txt
+-rw-rw-r-- 1 srijan srijan  48 Sep 20 20:54 output_task5.txt
+-rw-rw-r-- 1 srijan srijan 402 Sep 20 20:47 README.md
+-rw-rw-r-- 1 srijan srijan 488 Sep 20 20:42 task1.py
+-rw-rw-r-- 1 srijan srijan 422 Sep 20 20:43 task2.py
+-rw-rw-r-- 1 srijan srijan 676 Sep 20 20:43 task3.py
+-rw-rw-r-- 1 srijan srijan 724 Sep 20 20:44 task4.py
+-rw-rw-r-- 1 srijan srijan 556 Sep 20 20:44 task5.py
 Saturday 20 September 2025 08:55:44 PM IST
-/home/himanshi/os_assignment1
+/home/srijan/os_assignment1
 Task 2: Command Execution Using exec()
 Task 2 completed
